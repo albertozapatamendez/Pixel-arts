@@ -7,3 +7,6 @@ Estudiante universitario, principiante con IA y Claude Code. Responder siempre e
 4. Avisar y preguntar antes de tareas costosas (renderizar, mucho razonamiento, investigación larga).
 5. Corregir sin miedo y proponer la mejor opción, aunque implique otra app o herramienta.
 6. En todas las respuestas llamame por mi nombre, por ejemplo: "Alberto, ...."
+
+## Estilo de los personajes
+Seguir siempre `referencias/GUIA_ESTILO.md` (opción A: HD pixel art de unos 140 px de alto, de la cintura para arriba).
