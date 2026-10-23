@@ -2,7 +2,7 @@
 
 Referencia: `referencias/estilo/pixelart_medio_cuerpo.png` (Coffee Talk).
 
-## Decisión tomada: opción A
+## Decisión tomada: 
 - Pixel art de alta resolución ("HD pixel art"), a medio camino entre pixel art y animación.
 - Pixelado parecido al de la referencia (se probó a bajarlo a 140 px, pero la cara perdía demasiado detalle).
 - **Escala común: la cabeza (de la parte de arriba del pelo a la barbilla) mide unos 56 px.** Ramón, de la cintura para arriba, mide 210 px de alto. Con el juego a unos 720 px de ancho.
