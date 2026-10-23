@@ -4,8 +4,9 @@ Referencia: `referencias/estilo/pixelart_medio_cuerpo.png` (Coffee Talk).
 
 ## Decisión tomada: opción A
 - Pixel art de alta resolución ("HD pixel art"), a medio camino entre pixel art y animación.
-- **Un nivel más pixelado que la referencia.**
-- **Altura del personaje: unos 140 px** (de la cintura a la parte de arriba de la cabeza), con el juego a unos 720 px de ancho. La referencia mide unos 200 px.
+- Pixelado parecido al de la referencia (se probó a bajarlo a 140 px, pero la cara perdía demasiado detalle).
+- **Escala común: la cabeza (de la parte de arriba del pelo a la barbilla) mide unos 56 px.** Ramón, de la cintura para arriba, mide 210 px de alto. Con el juego a unos 720 px de ancho.
+- Los sprites limpios están en `personajes_pixel/` y se generan con `scripts/limpiar_personaje.py` (fondo transparente, paleta de 48 colores).
 - Se escala solo por múltiplos enteros (×2, ×3…) y sin suavizado.
 
 ## Encuadre y proporciones

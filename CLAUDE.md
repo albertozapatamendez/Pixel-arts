@@ -9,4 +9,4 @@ Estudiante universitario, principiante con IA y Claude Code. Responder siempre e
 6. En todas las respuestas llamame por mi nombre, por ejemplo: "Alberto, ...."
 
 ## Estilo de los personajes
-Seguir siempre `referencias/GUIA_ESTILO.md` (opción A: HD pixel art de unos 140 px de alto, de la cintura para arriba).
+Seguir siempre `referencias/GUIA_ESTILO.md` (HD pixel art de la cintura para arriba, con la cabeza a unos 56 px; Ramón mide 210 px de alto).
