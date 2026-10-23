@@ -28,7 +28,3 @@ Pixel arts de personajes basados en gente real, para un videojuego de diálogos 
    - Limpieza manual en Aseprite.
    - Pedir a la IA directamente fondo transparente o una cuadrícula exacta.
 2. **Limpiar los 5 personajes**: quitar el fondo (dejarlo transparente), ajustar a una cuadrícula de píxel real y usar una paleta común.
-3. **Cortar a todos a la misma altura del cuerpo**, por ejemplo a la cintura. Ahora cada uno está encuadrado de forma distinta.
-4. **Expresiones** de cada personaje (neutral, contento, enfadado, sorprendido, triste…). Es lo prioritario para un juego de diálogos.
-5. **Poses** (brazos cruzados, saludando, con objetos…).
-6. **Apuntar la IA y el prompt** con los que se hicieron los personajes base, para repetir el proceso.
