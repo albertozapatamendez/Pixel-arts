@@ -10,3 +10,6 @@ Estudiante universitario, principiante con IA y Claude Code. Responder siempre e
 
 ## Estilo de los personajes
 Seguir siempre `referencias/GUIA_ESTILO.md` (HD pixel art de la cintura para arriba, con la cabeza a unos 56 px; Ramón mide 210 px de alto).
+
+## Estado del proyecto
+Al empezar cada sesión, leer `PROGRESO.md` (lo hecho y lo pendiente) y mantenerlo actualizado.
