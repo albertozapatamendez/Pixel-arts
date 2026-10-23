@@ -7,8 +7,6 @@ Pixel arts de personajes basados en gente real, para un videojuego de diálogos 
 2. **Fotos reales**: la foto de grupo está en `referencias/personas/Personajes.png`, y los recortes de cada uno en `1_tomas`, `2_jorge`, `3_chamizo`, `4_ramon` y `5_eduardo`.
 3. **Pruebas**:
    - Pixelar la foto con un script no sirve: sale una foto pixelada, no pixel art.
-   - Gemini mantiene el estilo pero no el parecido (`prototipos/ramon/`).
-   - Con otra IA se consiguieron versiones con cara y ropa correctas. Hay que apuntar qué IA y qué prompt se usaron.
 4. **Personajes base (validados)**: en `personajes_definitivos_prototipo/` están Tomás (con el perro), Jorge, Chamizo, Ramón y Eduardo. Son imágenes grandes de IA que imitan el pixel art; todavía no son pixel art real.
 5. **Escala común**: la cabeza mide unos 56 px. Con `scripts/escalar_personaje.py` (que solo escala), los altos son:
 
